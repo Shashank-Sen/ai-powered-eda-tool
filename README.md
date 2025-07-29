@@ -1,6 +1,6 @@
- 📊 LLM-Powered EDA Tool using Gradio + Mistral
-
  # 📊 LLM-Powered Exploratory Data Analysis (EDA) Tool
+
+  📊 LLM-Powered EDA Tool using Gradio + Mistral
 
 A powerful AI-driven EDA application built with **Gradio**, **Pandas**, and **Seaborn**, enhanced by **LLM-powered insights** using **Ollama's Mistral-7B**. This tool allows you to upload any CSV dataset and instantly receive visualizations, missing value reports, descriptive statistics, and intelligent AI-generated insights.
 
